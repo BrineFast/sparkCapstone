@@ -29,3 +29,5 @@ hs_err_pid*
 ./logs
 ./zoo1
 ./redis
+.DS_Store
+*.lst
